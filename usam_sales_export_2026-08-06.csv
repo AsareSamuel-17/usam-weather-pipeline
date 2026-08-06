@@ -1,0 +1,19 @@
+Sale_ID,Date,Fish_Type,Weight_kg,Unit_Price_GHS,Total_Amount_GHS,Customer_Name,Payment_Method,Sold_By
+S1001,2026-08-01,Tilapia,12.5,35.00,437.50,Ama Owusu,Cash,Samuel Asare
+S1002,2026-08-01,Tuna,8.0,60.00,480.00,Kojo Mensah,Mobile Money,Samuel Asare
+S1003,2026-08-01,Catfish,15.0,28.00,420.00,Abena Boateng,Cash,Kwame Darko
+S1004,2026-08-02,Tilapia,20.0,35.00,700.00,Yaw Sarpong,Mobile Money,Samuel Asare
+S1005,2026-08-02,Herring,10.0,22.00,220.00,Efua Mensimah,Cash,Kwame Darko
+S1006,2026-08-02,Tuna,5.5,60.00,330.00,Kwabena Osei,Mobile Money,Samuel Asare
+S1007,2026-08-03,Catfish,9.0,28.00,252.00,Adjoa Frimpong,Cash,Samuel Asare
+S1008,2026-08-03,Tilapia,18.0,35.00,630.00,Nana Yeboah,Bank Transfer,Kwame Darko
+S1009,2026-08-03,Herring,7.5,22.00,165.00,Akosua Antwi,Cash,Samuel Asare
+S1010,2026-08-04,Tuna,11.0,60.00,660.00,Kofi Amponsah,Mobile Money,Kwame Darko
+S1011,2026-08-04,Tilapia,14.5,35.00,507.50,Esi Danso,Cash,Samuel Asare
+S1012,2026-08-04,Catfish,6.0,28.00,168.00,Yaa Asantewaa,Mobile Money,Kwame Darko
+S1013,2026-08-05,Herring,13.0,22.00,286.00,Kwesi Appiah,Cash,Samuel Asare
+S1014,2026-08-05,Tilapia,22.0,35.00,770.00,Abena Nyarko,Bank Transfer,Kwame Darko
+S1015,2026-08-05,Tuna,9.5,60.00,570.00,Yaw Adu,Mobile Money,Samuel Asare
+S1016,2026-08-06,Catfish,17.0,28.00,476.00,Ama Serwaa,Cash,Samuel Asare
+S1017,2026-08-06,Tilapia,10.0,35.00,350.00,Kojo Nti,Mobile Money,Kwame Darko
+S1018,2026-08-06,Herring,8.5,22.00,187.00,Efua Asiedu,Cash,Samuel Asare
